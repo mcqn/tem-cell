@@ -12,9 +12,11 @@ Self built standard TEM cell using FR4
 Very detailed description of the theory of TEM cells and the calculation of geometry. The cells produce as part of this work were initial constructed from 3d printed parts covered in aluminium foil. Both symmetric and asymmetric are presented
 [https://theses.hal.science/tel-02984775v1/document](https://theses.hal.science/tel-02984775v1/document) Section 3 (pp110)
 
-Archive a paper detailing a self built asymmetric open TEM cell, using FR4 material.
+Archive of a paper detailing a self built asymmetric open TEM cell, using FR4 material.
 [https://web.archive.org/web/20230110194128id_/https://repositum.tuwien.at/bitstream/20.500.12708/139396/1/Spindelberger-2022-Increasing%20the%20Test-Volume%20of%20Open%20TEM%20Cells%20by%20Using%20...-vor.pdf](https://web.archive.org/web/20230110194128id_/https://repositum.tuwien.at/bitstream/20.500.12708/139396/1/Spindelberger-2022-Increasing%20the%20Test-Volume%20of%20Open%20TEM%20Cells%20by%20Using%20...-vor.pdf)
 
+Closed cell TEM cell built in sheet alluminium
+[https://www.eevblog.com/forum/rf-microwave/emc-testing-diy-tem-cell/](https://www.eevblog.com/forum/rf-microwave/emc-testing-diy-tem-cell/)
 
 Alternative geometries for GTEM, WTEM  and EUROTEM
 [https://www.eetimes.com/electromagnetic-compatibility-analysis-using-tem-cells/](https://www.eetimes.com/electromagnetic-compatibility-analysis-using-tem-cells/)
