@@ -21,5 +21,5 @@ Closed cell TEM cell built in sheet alluminium
 Alternative geometries for GTEM, WTEM  and EUROTEM
 [https://www.eetimes.com/electromagnetic-compatibility-analysis-using-tem-cells/](https://www.eetimes.com/electromagnetic-compatibility-analysis-using-tem-cells/)
 
-Very detailed paper describing the theory and construction of a DIT GTEM cell. (I've not been able to find a company selling the pyramidal rf absorbers who are prepared to publish prices)
+Very detailed paper describing the theory and construction of a DIY GTEM cell. (I've not been able to find a company selling the pyramidal rf absorbers who are prepared to publish prices)
 [https://www.mikrocontroller.net/attachment/89388/dip_icheln.pdf](https://www.mikrocontroller.net/attachment/89388/dip_icheln.pdf)
