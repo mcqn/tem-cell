@@ -9,6 +9,10 @@ The original paper by Crawford for the TEM cell. Includes detail of the calculat
 Self built standard TEM cell using FR4
 [https://www.researchgate.net/publication/242584827_Do-it-Yourself_Fabrication_of_an_Open_TEM_Cell_for_EMC_Pre-compliance](https://www.researchgate.net/publication/242584827_Do-it-Yourself_Fabrication_of_an_Open_TEM_Cell_for_EMC_Pre-compliance)
 
+Another DIY open TEM cell, with detailed photographs of the connectors.
+[https://blog.michalhrouda.cz/2020/06/making-tem-cell-for-emc-measurements/](https://blog.michalhrouda.cz/2020/06/making-tem-cell-for-emc-measurements/)
+
+
 Very detailed description of the theory of TEM cells and the calculation of geometry. The cells produce as part of this work were initial constructed from 3d printed parts covered in aluminium foil. Both symmetric and asymmetric are presented
 [https://theses.hal.science/tel-02984775v1/document](https://theses.hal.science/tel-02984775v1/document) Section 3 (pp110)
 
